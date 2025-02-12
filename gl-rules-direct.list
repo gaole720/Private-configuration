@@ -1,14 +1,6 @@
 DOMAIN-KEYWORD,glxforever
 DOMAIN-KEYWORD,glplane
-DOMAIN-SUFFIX,lan
-DOMAIN-SUFFIX,local
-DOMAIN-SUFFIX,localhost
-IP-CIDR,127.0.0.0/8,no-resolve
-IP-CIDR,172.16.0.0/12,no-resolve
-IP-CIDR,192.168.0.0/16,no-resolve
-IP-CIDR,198.18.0.0/16,no-resolve
-IP-CIDR6,fe80::/10,no-resolve
-IP-CIDR6,fd00::/8,no-resolve
+DOMAIN-KEYWORD,istoreos
 
 # Bilibili 哔哩哔哩
 USER-AGENT,Bilibili*
