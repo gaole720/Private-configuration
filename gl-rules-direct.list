@@ -1,7 +1,7 @@
 DOMAIN-KEYWORD,glxforever
 DOMAIN-KEYWORD,glpanel
 DOMAIN-KEYWORD,istoreos
-DOMAIN-KEYWORD,gaole
+DOMAIN-KEYWORD,gaolee
 
 
 # Bilibili 哔哩哔哩
@@ -72,12 +72,3 @@ IP-CIDR,101.32.133.53/32,no-resolve
 IP-CIDR,101.32.133.209/32,no-resolve
 IP-CIDR,129.226.3.47/32,no-resolve
 IP-CIDR,129.226.107.244/32,no-resolve
-# 内容：JD
-DOMAIN-SUFFIX,360buy.com
-DOMAIN-SUFFIX,360buyimg.com
-DOMAIN-SUFFIX,jcloudcs.com
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,jd.hk
-DOMAIN-SUFFIX,jdcloud.com
-DOMAIN-SUFFIX,jdpay.com
-DOMAIN-SUFFIX,paipai.com
