@@ -40,6 +40,6 @@ payload:
   - DOMAIN-SUFFIX,pinduoduo.com
   - DOMAIN-SUFFIX,yangkeduo.com
   
-  - IP-CIDR,47.108.144.137/32,no-resolve
-  - IP-CIDR,47.76.157.211/32,no-resolve
+  - IP-CIDR,47.108.144.137/32
+  - IP-CIDR,47.76.157.211/32
 
